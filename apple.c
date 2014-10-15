@@ -2,5 +2,6 @@
 
 void main()
 {
-	printf("What a wonderful KOJ ass\n");
+	
+	printf("KOJ MORON\n");
 }	
