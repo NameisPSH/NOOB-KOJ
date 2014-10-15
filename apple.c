@@ -1,4 +1,6 @@
-asdasd
-asd
-asd
-ads
+#include <stdio.h>
+
+void main()
+{
+	printf("KOJ MORON\n");
+}	
